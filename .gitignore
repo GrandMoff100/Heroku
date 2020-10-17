@@ -1,0 +1,8 @@
+*.pyc
+heroku/
+
+venv/
+.idea/
+.vscode/
+
+.replit
